@@ -2,7 +2,7 @@
 
 use PHPUnit\Framework\TestCase;
 
-class EmailTest extends TestCase
+class TheClassTest extends TestCase
 {
     public function testMakesGoodSuccess(): void
     {
