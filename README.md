@@ -1,1 +1,1 @@
-# Single responsibility principe
+# Single Responsibility Principe
